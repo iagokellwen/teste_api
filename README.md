@@ -1,23 +1,13 @@
 # app
 
-## Project setup
+## Rodar o servidor vue
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+yarn serve
 ```
 
-### Compiles and minifies for production
+## Rodar o servidor python
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+python serrver.py
 ```
 
 ### Customize configuration
